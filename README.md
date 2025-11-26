@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Kheshwen.
 
-<!--
-**Kheshwen/Kheshwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science undergraduate at **Universiti Teknologi PETRONAS**.
+My work sits at the intersection of **Game Development** and **Minimalist Web Design**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus**
+* 🌱 Exploring **Unity** & C# for game mechanics.
+* 🔭 Building a personal portfolio with a focus on editorial aesthetics.
+* 🎓 Class of 2028 (Bachelor's in CS).
+
+**Tech Stack**
+* **Languages:** Python, C++, C#
+* **Tools:** Unity, Git, React
+
+---
+
+*“Simplicity is the ultimate sophistication.”*
