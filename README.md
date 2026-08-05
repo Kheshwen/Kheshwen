@@ -9,9 +9,9 @@ Computer Science student at Universiti Teknologi PETRONAS, with an interest in c
 
 ## Skills
 
-**Programming:** C++ · C# · Python
-**Web:** HTML · CSS · JavaScript
-**Security Tools:** Wireshark · Nmap · Burp Suite · Metasploit · Kali Linux
+**Programming:** C++ · C# · Python  
+**Web:** HTML · CSS · JavaScript  
+**Security Tools:** Wireshark · Nmap · Burp Suite · Metasploit · Kali Linux  
 **Machine Learning:** TensorFlow · scikit-learn · PyTorch · Pandas · NumPy · MATLAB
 
 ## Currently Learning
