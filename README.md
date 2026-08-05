@@ -20,8 +20,7 @@ Computer Science student at Universiti Teknologi PETRONAS, with an interest in c
 
 ## GitHub Stats
 
-![Kheshwen's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Kheshwen&show_icons=true&theme=default](https://github-readme-stats.vercel.app/api?username=Kheshwen&show_icons=true&theme=default))
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kheshwen&layout=compact&theme=default)
+![Keshi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kheshwen&show_icons=true&theme=default)
 
 ## Contact
 
