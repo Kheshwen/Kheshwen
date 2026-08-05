@@ -1,19 +1,29 @@
-### Hi there, I'm Kheshwen.
+# Hi, I'm Kheshwen
 
-I am a Computer Science undergraduate at **Universiti Teknologi PETRONAS**.
-My work sits at the intersection of **Game Development** and **Minimalist Web Design**.
+Computer Science student at Universiti Teknologi PETRONAS, with an interest in cybersecurity and machine learning. I'm currently preparing for a CS internship starting January 2027.
 
----
+## About Me
 
-**Current Focus**
-* 🌱 Exploring **Unity** & C# for game mechanics.
-* 🔭 Building a personal portfolio with a focus on editorial aesthetics.
-* 🎓 Class of 2028 (Bachelor's in CS).
+- Second-year CS student, based in Malaysia
+- Interested in cybersecurity, machine learning and building practical projects
 
-**Tech Stack**
-* **Languages:** Python, C++, C#
-* **Tools:** Unity, Git, React
+## Skills
 
----
+**Programming:** C++ · C# · Python
+**Web:** HTML · CSS · JavaScript
+**Security Tools:** Wireshark · Nmap · Burp Suite · Metasploit · Kali Linux
+**Machine Learning:** TensorFlow · scikit-learn · PyTorch · Pandas · NumPy · MATLAB
 
-*“Simplicity is the ultimate sophistication.”*
+## Currently Learning
+
+- Deepening cybersecurity and ML skills ahead of my internship
+
+## GitHub Stats
+
+![Kheshwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kheshwen&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kheshwen&layout=compact&theme=default)
+
+## Contact
+
+- Email: khesh555@gmail.com
+- LinkedIn: [linkedin.com/in/kheshwenda](https://linkedin.com/in/kheshwenda)
