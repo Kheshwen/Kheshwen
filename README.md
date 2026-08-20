@@ -1,6 +1,6 @@
 # Hi, I'm Kheshwen
 
-Computer Science student at Universiti Teknologi PETRONAS, with an interest in cybersecurity and machine learning. I'm currently preparing for a CS internship starting January 2027.
+Computer Science student at Universiti Teknologi PETRONAS, with an interest in cybersecurity and machine learning. I'm currently preparing for an internship starting January 2027.
 
 ## About Me
 
