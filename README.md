@@ -4,19 +4,21 @@ Computer Science student at Universiti Teknologi PETRONAS, with an interest in c
 
 ## About Me
 
-- Second-year CS student, based in Malaysia
-- Interested in cybersecurity, machine learning and building practical projects
+I'm a second-year Computer Science student in Malaysia with a growing interest in cybersecurity, machine learning, and practical software development.   
+I enjoy learning by building — from experimenting with security tools to developing applications and exploring how machine learning can be applied to real-world problems.   
+Currently, I'm focused on strengthening my technical foundation and building projects that demonstrate what I can actually do.   
 
 ## Skills
 
-**Programming:** C++ · C# · Python  
-**Web:** HTML · CSS · JavaScript  
-**Security Tools:** Wireshark · Nmap · Burp Suite · Metasploit · Kali Linux  
-**Machine Learning:** TensorFlow · scikit-learn · PyTorch · Pandas · NumPy · MATLAB
+**Programming & Web:** C++ · C# · Python · HTML · CSS · JavaScript  
+**Cybersecurity:** Wireshark · Nmap · Burp Suite · Metasploit · Kali Linux  
+**Machine Learning & Data:** TensorFlow · scikit-learn · PyTorch · Pandas · NumPy · MATLAB
 
 ## Currently Learning
 
 - Deepening cybersecurity and ML skills ahead of my internship
+- Developing stronger machine learning skills
+- Building more practical Python projects
 
 ## GitHub Stats
 
