@@ -5,7 +5,7 @@ Computer Science student at Universiti Teknologi PETRONAS, with an interest in c
 ## About Me
 
 I'm a second-year Computer Science student in Malaysia with a growing interest in cybersecurity, machine learning, and practical software development.   
-I enjoy learning by building — from experimenting with security tools to developing applications and exploring how machine learning can be applied to real-world problems.   
+I enjoy learning by building from experimenting with security tools to developing applications and exploring how machine learning can be applied to real-world problems.   
 Currently, I'm focused on strengthening my technical foundation and building projects that demonstrate what I can actually do.   
 
 ## Skills
